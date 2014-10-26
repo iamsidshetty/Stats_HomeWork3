@@ -1,0 +1,43 @@
+#---------------------------------------------------------------------------#
+# Statistics Project 3 README
+# Team Members:
+        # 1. Sudarshan
+        # 2. Sri Hari Priya
+        # 3. Keerthana
+        # 4. Prathyusha
+#---------------------------------------------------------------------------#
+
+Tool: R
+
+Execution Steps:
+
+Q1:
+        source(<path_of_the_file_1.R>)
+        sample_1("sample_1.txt", <standard_deviation>, <confidence_level>)
+
+        Ex: 
+        sample_1("sample_1.txt", 2.6, 90)
+        sample_1("sample_1.txt", 2.6, 95)
+
+Q2:
+        source(<path_of_the_file_2.R>)
+        sample_2("sample_2a.txt", "sample_2b.txt", <confidence_level>)
+
+        Ex: 
+        sample_2("sample_2a.txt", "sample_2b.txt", 98)
+
+Q3:
+        source(<path_of_the_file_3.R>)
+        sample_3("sample_3.txt", <confidence_level>)
+
+        Ex: 
+        sample_3("sample_3.txt", 95)
+
+Q4:
+        source(<path_of_the_file_4.R>)
+        sample_4("sample_3.txt", "sample_4.txt", <confidence_level>)
+
+        Ex: 
+        sample_4("sample_3.txt", "sample_4.txt", 95)
+
+#-----------------------End of README----------------------------------------#
