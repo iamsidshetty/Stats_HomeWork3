@@ -9,6 +9,33 @@
 
 Tool: R
 
+
+Q1. Analyze the sample given in the file sample_1.txt. This sample contains 250 
+observations from a Normally distributed random variable with 
+standard deviation 2.6.  Create the following:
+	a. 90% confidence interval for the expectation.
+	b. 95% confidence interval for the expectation.
+ 
+Q2. Two samples are given in files sample_2a.txt (113 observations) and 
+sample_2b.txt (106 observations). These samples contain cholesterol levels for 
+subjects of an experiment: One group was given an experimental drug (sample_2a), 
+the other was not (sample_2b). The observations show the change in cholesterol 
+levels after one month of treatment. Calculate the sample means for both samples, 
+and create a 98% confidence interval for the difference between the means.  
+Draw a conclusion about the effectiveness of the drug treatment.
+
+Q3. The file sample_3.txt contains the points allowed by a local football team 
+last season. Assume the numbers are normally distributed. Create a 95% confidence 
+interval for the expectation of the number of points allowed per game (use the 
+t-distribution).
+
+Q4. The file sample_4.txt contains the points allowed by the local football team 
+so far this season. Comparing this to the sample in part 3, create a 95% confidence 
+interval for the difference in the expected value for points allowed per game, 
+and draw a conclusion as to whether the team has improved this year. You may 
+assume the numbers are normally distributed. (Use the t-distribution, unknown 
+different variances).
+
 Execution Steps:
 
 Q1:
