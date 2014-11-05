@@ -1,10 +1,5 @@
 #---------------------------------------------------------------------------#
 # Statistics Project 3, Question 4
-# Team Members:
-        # 1. Sudarshan
-        # 2. Sri Hari Priya
-        # 3. Keerthana
-        # 4. Prathyusha
 #---------------------------------------------------------------------------#
 
 sample_4 <- function(file1, file2, conf_level){

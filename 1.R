@@ -1,10 +1,5 @@
 #---------------------------------------------------------------------------#
 # Statistics Project 3, Question 1
-# Team Members:
-        # 1. Sudarshan
-        # 2. Sri Hari Priya
-        # 3. Keerthana
-        # 4. Prathyusha
 #---------------------------------------------------------------------------#
 
 sample_1 <- function(filename, std_dev, conf_level){
